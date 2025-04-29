@@ -1,6 +1,6 @@
 # Vision System
 
-![project](https://img.shields.io/badge/Project-Spider%20Robot%20Vision-blue.svg)
+![project](https://img.shields.io/badge/Project-Spider%20Robot-blue.svg)
 ![license](https://img.shields.io/badge/License-MIT-green.svg)
 ![status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)
 
